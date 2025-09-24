@@ -1,4 +1,4 @@
-# reverse-video-search
+# Reverse Video Search
 
 Welcome to [reverse video search](https://reversevideosearch.app/) - your comprehensive solution for finding videos across the internet.
 
