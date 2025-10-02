@@ -4,7 +4,7 @@ Welcome to [reverse video search](https://reversevideosearch.app/) - your compre
 
 ## How to Use
 
-Visit [reversevideosearch.app](https://reversevideosearch.app/) to get started. You can search for videos in two ways:
+Visit [reversevideosearch.app](https://reversevideosearch.app/) to get started. You can [search videos](https://reversevideosearch.app/search-videos) in two ways:
 
 ### 1. File Upload (Recommended)
 - Upload your video file directly to the website
