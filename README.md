@@ -28,6 +28,12 @@ Visit [reversevideosearch.app](https://reversevideosearch.app/) to get started. 
 Use **DeepSearch** for enhanced precision and better chances of finding your video.  
 This advanced system analyzes the **entire video content**, not just thumbnails or metadata, providing more accurate and comprehensive results.
 
+## 🎬 Demo
+
+<video src="reverse-video-search-short.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
 ### ⚙️ Smart Comparison Engine
 Our intelligent matching algorithm recognizes re-edited, cropped, or shortened clips through **frame-level visual similarity detection**.
 
