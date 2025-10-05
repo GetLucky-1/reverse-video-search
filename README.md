@@ -86,6 +86,10 @@ Have ideas, bug reports, or feature requests?
 
 ---
 
+📖 **Documentation:** [https://getlucky-1.github.io/reverse-video-search/](https://getlucky-1.github.io/reverse-video-search/)
+
+---
+
 ## 🪪 License
 
 Licensed under the **MIT License** — you’re free to use, modify, and distribute with attribution.
